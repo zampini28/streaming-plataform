@@ -1,0 +1,30 @@
+User:
+ - Id
+ - Full name
+ - Email
+ - Username
+ - Password
+ - Creation date
+ - Update date
+ - Is admin
+
+Film:
+ - Id
+ - Name
+ - Rating
+ - Release date
+ - Director %
+ - Sinopse
+ - Category %
+ - Duration 
+ - Price 
+ - Thumbnail
+
+Director:
+ - Id
+ - Name
+ - Image
+
+Category:
+ - Id
+ - Name
